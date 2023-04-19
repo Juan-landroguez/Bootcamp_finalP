@@ -4,7 +4,7 @@ This project is a movie recommendation system designed to help users quickly and
 
 ## Approach and Methodology
 
-To build the recommendation system, I utilized a clustering algorithm to group similar movies together based on a wide range of factors, including genre, runtime, and ratings. Once movies have been clustered, users can input their individual ratings for a variety of films, which the system then uses to make personalized movie recommendations based on the user's preferences.
+To build the recommendation system, I used a clustering algorithm to group similar movies together based on a wide range of factors, including genre, runtime, and ratings. Once movies have been clustered, users can input their individual ratings for a variety of films, which the system then uses to make personalized movie recommendations based on the user's preferences.
 
 ## Data Sources
 
