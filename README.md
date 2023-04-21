@@ -16,7 +16,7 @@ The data for this project was obtained from several sources, including:
 
 ## Project Presentation
 You can see the public presentation by using the following link:
-https://www.canva.com/design/DAFgeOd8cSo/LCfG7Loi03t2Onvc9wue7Q/edit?utm_content=DAFgeOd8cSo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFgj0FwOpk/wkuCauzr27zxLpWOsJhicw/edit?utm_content=DAFgj0FwOpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Installation and Usage
 
